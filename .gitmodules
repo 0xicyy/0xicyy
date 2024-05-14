@@ -4,3 +4,6 @@
 [submodule "repo/subdl_kodi"]
 	path = repo/subdl_kodi
 	url = https://github.com/anhdwk/subdl_kodi
+[submodule "subdl_kodi"]
+	path = subdl_kodi
+	url = https://github.com/anhdwk/subdl_kodi
