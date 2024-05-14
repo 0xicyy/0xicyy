@@ -137,7 +137,7 @@
             <fanart>fanart.png</fanart>
         </assets>
     </extension>
-</addon><addon id="repository.icy" name="icy" version="0.0.2" provider-name="0xicyy">
+</addon><addon id="repository.icy" name="icy" version="0.0.1" provider-name="0xicyy">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/0xicyy/repository.icy/master/repo/zips/addons.xml</info>
@@ -518,7 +518,7 @@ v1.0.1 (2023-07-28)
 		</assets>
 		<source>https://github.com/opensubtitlesdev/service.subtitles.opensubtitles-com</source>
 	</extension>
-</addon><addon id="service.subtitles.subdl-com" name="SubDL.com" version="1.0.0" provider-name="amet, opensubtitles, juokelis, opensubtitlesdev">
+</addon><addon id="service.subtitles.subdl-com" name="SubDL.com" version="1.0.1" provider-name="amet, opensubtitles, juokelis, opensubtitlesdev">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.web-pdb" />

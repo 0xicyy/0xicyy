@@ -7,3 +7,6 @@
 [submodule "subdl_kodi"]
 	path = subdl_kodi
 	url = https://github.com/anhdwk/subdl_kodi
+[submodule "repo/repository.icy/subdl_kodi"]
+	path = repo/repository.icy/subdl_kodi
+	url = https://github.com/anhdwk/subdl_kodi
