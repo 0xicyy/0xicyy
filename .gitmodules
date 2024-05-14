@@ -10,3 +10,6 @@
 [submodule "repo/repository.icy/subdl_kodi"]
 	path = repo/repository.icy/subdl_kodi
 	url = https://github.com/anhdwk/subdl_kodi
+[submodule "repo/repository.icy/skin.arctic.horizon.2"]
+	path = repo/repository.icy/skin.arctic.horizon.2
+	url = https://github.com/jurialmunkey/skin.arctic.horizon.2
